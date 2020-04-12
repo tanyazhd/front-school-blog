@@ -20,7 +20,7 @@ class NewPost extends Component {
     render(){
         
         return(
-            <div className={style.formPostWrapper}>
+            <div className={style.postFormWrapper}>
                
             
             <div className={style.row}>
