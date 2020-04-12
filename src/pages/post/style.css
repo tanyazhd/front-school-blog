@@ -1,0 +1,38 @@
+.postWrapper {
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+   
+  }
+  
+  .postTitle {
+    background-color: #3587c7;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .postContent {
+    margin-top: 10px;
+  }
+
+  .like{
+
+  }
+  
+  .dislike{
+      
+  }
+  
+  .eye{
+      
+  }
+  
+  .viewWrapper{
+      
+  }
+  
+  .footer{
+      
+  }
+  

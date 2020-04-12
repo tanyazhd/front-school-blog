@@ -1,0 +1,17 @@
+.myPageWrapper {
+    width: 800px;
+    border: 1px solid darkgray;
+    margin: 100px auto;
+    padding: 40px 20px;
+    border-radius: 6px;
+    display:flex;
+    font-size: 20px;
+  }
+  .myPageWrapper img{
+      width: 100px;
+      height: 100px;
+  }
+  .name{
+      font-size: 30px;
+      color: blue;
+  }

@@ -1,0 +1,6 @@
+.inputComponent{
+    padding: 4px 8px;
+    width: 100%;
+    outline: none;
+    min-height: 300px;
+}
